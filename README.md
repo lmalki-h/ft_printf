@@ -4,9 +4,9 @@ Ft_printf consists in recoding the C funtion printf with some of its options.
 
 
 ## Table of content
-* [What is Ft_printf?] (#what-is-Ft_printf?)
-* [How to run Ft_printf?] (#how-to-run-Ft_printf?)
-* [Project status] (#project-status)
+* [What is Ft_printf?](#what-is-Ft_printf?)
+* [How to run Ft_printf?](#how-to-run-Ft_printf?)
+* [Project status](#project-status)
 
 ## What is Ft_printf?
 
